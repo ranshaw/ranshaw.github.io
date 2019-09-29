@@ -56,20 +56,24 @@ self.__precacheManifest = [
     "url": "./umi.8647adaf.js"
   },
   {
-    "revision": "545953965fb239528df76f4a6ab36152",
+    "revision": "cc6789c03083cdc2c119e788e06b429b",
     "url": "./index.html"
-  },
-  {
-    "revision": "a87a11c718b735caca9334374a8d528f",
-    "url": "./america.svg"
   },
   {
     "revision": "105e60c4aa9dddac5da264977dfc7d90",
     "url": "./china.svg"
   },
   {
+    "revision": "a87a11c718b735caca9334374a8d528f",
+    "url": "./america.svg"
+  },
+  {
     "revision": "f4af193bc80aa24c07680face720fd17",
     "url": "./lib/aliyun-upload-sdk/aliyun-oss-sdk-5.3.1.min.js"
+  },
+  {
+    "revision": "6f3dcef2b2f99929fb428a0fbc59889f",
+    "url": "./lib/aliyun-upload-sdk/aliyun-upload-sdk-1.5.0.min.js"
   },
   {
     "revision": "16d2568742ff3d53d7e45424affff300",
@@ -78,10 +82,6 @@ self.__precacheManifest = [
   {
     "revision": "ca512a42280545acb724b3c11e0c679b",
     "url": "./logo.svg"
-  },
-  {
-    "revision": "6f3dcef2b2f99929fb428a0fbc59889f",
-    "url": "./lib/aliyun-upload-sdk/aliyun-upload-sdk-1.5.0.min.js"
   },
   {
     "revision": "bd0e8271478907de1ed7bcb008f24538",
